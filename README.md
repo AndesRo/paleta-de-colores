@@ -1,4 +1,4 @@
-# 🎨 Generador de Paletas IA - Professional
+# 🎨 Generador de paletas de colores- Professional
 
 Una aplicación de escritorio completa para generar y gestionar paletas de colores usando inteligencia artificial.
 
@@ -49,3 +49,4 @@ pip install -r requirements.txt
 # Ejecuta la aplicación
 python app.py
 ```
+
